@@ -2,6 +2,6 @@
 
 - Desenvolvido por: Nathália Salomão
 
-![LinkedIn](https://www.linkedin.com/in/nathaliasalomao/)
+[LinkedIn](https://www.linkedin.com/in/nathaliasalomao/)
 
 - Email: nathalia.salomao97@gmail.com
